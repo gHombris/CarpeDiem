@@ -1,0 +1,13 @@
+/build
+.idea
+*.iml
+*.iws
+*.ipr
+.DS_Store
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.log
+*.bak
+*.spl

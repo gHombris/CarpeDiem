@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CarpeDiem</string>
+    <string name="accessibility_service_description">Este serviço bloqueia ativamente vídeos curtos viciantes (TikTok, Shorts, Reels) para o seu bem-estar digital.</string>
+</resources>
